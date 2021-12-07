@@ -4,5 +4,5 @@ IBORA is a learning exchange organization
 
 project overview
 
-- [📚 notebook](): NoteBook for basic information.
+- [📚 notebook](https://github.com/ibora6/notebook): NoteBook for basic information.
 
